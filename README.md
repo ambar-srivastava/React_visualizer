@@ -1,6 +1,6 @@
 ## React_Sorting_Visualizer
 
-This Web App Visualize the Complex Sorting Technique in straightforward. This will really help me in understanding the algorithms. You can see the Demo here https://reactsorting.netlify.com/
+This Web App Visualize the Complex Sorting Technique in straightforward. This will really help me in understanding the algorithms.
 
 ## Types Of Sorting Technique
 
@@ -30,17 +30,11 @@ This Web App Visualize the Complex Sorting Technique in straightforward. This wi
  ```
  ## Developer and Auther 
 
- This project is Develop by Team of Shubham Shinde and Shivam Srivastava. The idea of this project is retrieve from Internet.
- 
- ## RoadMap
- We are extending this project and adding **Shortest Path Algorithm** and changing the UI of the Application
-  
- #### This is Comming Soon ...
- ![](https://imgur.com/r2LbLEZ.png)
+ This project is Develop by Team of Ambar Srivastava and Shivam Srivastava. The idea of this project is retrieve from Internet.
  
  ## Support Us
  You can send your suggestion and query to us we are always willing to reply
-  shivam.mkp@gmail.com
+ ambar0027coc@gmail.com
 
  
  
